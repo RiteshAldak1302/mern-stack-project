@@ -3,7 +3,7 @@ import React from 'react'
 const AllUser = () => {
     return (
         <div>
-            this is all user 
+            this is all user page
         </div>
     )
 }
